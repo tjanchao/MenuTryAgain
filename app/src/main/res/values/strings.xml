@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuTryAgain</string>
+    <string name="txt_add_button">Add</string>
+    <string name="txt_add_save_btn">Save</string>
+</resources>
